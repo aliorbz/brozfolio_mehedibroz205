@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
         <div className="grid grid-cols-2 gap-4">
           <div className="bento-card p-4 sm:p-6 flex flex-col justify-between overflow-hidden relative min-h-[180px] !bg-[#d9f5fc]">
              <div className="z-10">
-                <h3 className="font-bold text-sm sm:text-xl leading-tight text-black">mehedibroz205</h3>
+                <h3 className="font-bold text-sm sm:text-xl leading-tight text-black">mehedibroz</h3>
                 <p className="text-black/60 text-[10px] sm:text-sm font-semibold">UTC +6</p>
              </div>
              {/* Background Reference Image */}
